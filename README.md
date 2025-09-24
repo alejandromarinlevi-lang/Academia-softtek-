@@ -1,8 +1,14 @@
 
 este es el README.md de main 
 
-=======
-# Academia-softtek-
+
+
+
 
 este es el README de QA 
+
+
+
+
+este es el README de develop 
 
